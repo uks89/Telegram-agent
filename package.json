@@ -1,7 +1,8 @@
 {
   "name": "telegram-agent",
   "version": "1.0.0",
-  "description": "A Telegram chatbot powered by OpenRouter and OpenAI-compatible AI providers.",
+  "description": "A lightweight Telegram AI chatbot with OpenRouter and OpenAI-compatible provider support.",
+  "license": "MIT",
   "type": "module",
   "main": "src/server.js",
   "scripts": {

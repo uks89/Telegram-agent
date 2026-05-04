@@ -194,4 +194,4 @@ src/
 
 ## License
 
-Add a license before publishing if you want other people to reuse or modify this project.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
